@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string></string>
+	<string>com.HuaDeity.kagisuggest</string>
 	<key>category</key>
 	<string>Internet</string>
 	<key>connections</key>
@@ -424,6 +424,8 @@ Set a Session Link to search in the [Workflow’s Configuration](https://www.alf
 			<string>session_link</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>2026.1</string>
 	<key>webaddress</key>
